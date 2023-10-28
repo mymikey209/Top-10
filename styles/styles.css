@@ -1,7 +1,27 @@
 h1 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
     text-align: center;
+    background-color: rgb(43, 43, 43);
 }
+
+.body {
+    background-color: black;
+}
+
 .container{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+}
+
+.carousel {
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.center {
+    text-align: center;
 }
