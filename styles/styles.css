@@ -30,7 +30,7 @@ h1 {
     float: left;
     width: 750px;
     height: 500px;
-    padding-top: 10px;
+    padding: top 10px;;
     padding-bottom: 50px;
     padding-left: 15px;
 }
@@ -44,6 +44,8 @@ h1 {
     display: flex;
     text-align: end;
     padding-left: 50%;
+    color: white;
+    font-size: 30px;
 }
 
 p {
