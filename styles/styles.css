@@ -45,3 +45,16 @@ h1 {
     text-align: end;
     padding-left: 50%;
 }
+
+p {
+    font-size: 30px;
+}
+
+.text {
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-left: 770px;
+    margin-right: 50px;
+    padding-bottom: 140px;
+    background-color: lightgray;
+}
